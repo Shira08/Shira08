@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <h1 align="center">Hi 👋, I'm Hello Geeks 👩‍💻</h1>
 <h3 align="center">Hello! I'm [Your Name], and I'm a female coder with a knack for solving problems</h3>
 
@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shira08&show_icons=true&locale=en" alt="shira08" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shira08&" alt="shira08" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shira08&" alt="shira08" /></p>-->
