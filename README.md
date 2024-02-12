@@ -14,12 +14,12 @@
 
 Feel free to contact me and contribute :wink:.
 
----
+
 ***Tools & Technologies*** :
 
  ![Java](https://img.shields.io/badge/java-%234ea94b.svg?style=for-the-badge&logo=java&logoColor=white) ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 
---->
+- 
 
 
 [![Medium](https://img.shields.io/badge/Medium-000000?&style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/@juniormedehou)
@@ -28,5 +28,5 @@ Feel free to contact me and contribute :wink:.
 [![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](juniormedehou@gmail.com)
 !["](https://komarev.com/ghpvc/?username=NemesisX1&label=Profile%20views&color=0e75b6&style=flat)
 
-</div>
+</div>-->
 
