@@ -17,8 +17,9 @@
   Hello world !!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  ### :woman_technologist: About Me :
-  *Software Engineer. Becoming Fullstack Dart and TypeScript Developer !!!*
+  <div id="header"align="left">
+ :woman_technologist: About Me :
+*Software Engineer. Becoming Fullstack Dart and TypeScript Developer !!!*
 
 - 🔭 I’m currently working as a freelancer, open source contributor and [blogger](https://www.juniormedehou.me);
 - 🌱 I’m currently learning how to become a kind of startup as a person;
@@ -29,6 +30,7 @@
 - ⚡ Fun fact: I am a manga addict and also passionate about poetry,and gaming;
 
 Feel free to contact me and contribute :wink:.
+</div>
 </div>
 
 <!--### Hello World ! <img height="30" src="https://media0.giphy.com/media/QTlmH8hEoVoi83mdJC/200w.webp?cid=ecf05e475gkndp9379fxllqfhbet5s7wigrkj492lpi0go0s&rid=200w.webp"></img>
