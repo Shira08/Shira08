@@ -1,6 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/gIxts9iFf0SLDNPVtL/giphy.gif"  style="border-radius: 50px; width="auto" "/>
+<div id="header" style="text-align: center;">
+  <img src="https://media.giphy.com/media/gIxts9iFf0SLDNPVtL/giphy.gif" style="border-radius: 50px; width: auto;" />
 </div>
+
 
 <!--### Hello World ! <img height="30" src="https://media0.giphy.com/media/QTlmH8hEoVoi83mdJC/200w.webp?cid=ecf05e475gkndp9379fxllqfhbet5s7wigrkj492lpi0go0s&rid=200w.webp"></img>
 
