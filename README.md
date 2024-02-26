@@ -19,17 +19,16 @@
 </h1>
   <div id="header"align="left">
  :woman_technologist: About Me :
-*Software Engineer. Becoming Fullstack Dart and TypeScript Developer !!!*
+*Software Engineer, perfectionning in java programming !!!*
 
-- 🔭 I’m currently working as a freelancer, open source contributor and [blogger](https://www.juniormedehou.me);
-- 🌱 I’m currently learning how to become a kind of startup as a person;
-- 🎯 I'm working hard to become a Dart and Flutter GDE;
+- 🔭 I’m currently working as software engineer at MTN Bénin;
+- 🌱 I’m currently ;
+- 🎯 I'm working hard ;
 - 👯 I’m looking to collaborate on everything about **open source** and how to make your users happy;
-- 💬 Ask me about anything about programming, space, data science, AI and computer science;
-- 📫 How to reach me: **juniormedehou@gmail.com**;
-- ⚡ Fun fact: I am a manga addict and also passionate about poetry,and gaming;
+- 📫 How to reach me: **gognonshira@gmail.com**;
+- ⚡ Fun fact: I am a big fan of dance and every thing who seems interesting to me;
 
-Feel free to contact me and contribute :wink:.
+Feel free to contact me 
 </div>
 </div>
 
