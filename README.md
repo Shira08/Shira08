@@ -1,6 +1,11 @@
 
 <div id="header"align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXh3cDNmcjdkNXhlcHY3bzR6YTBtejhtMXF3ZXcwNmdveGRkaTFwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Us2PJJGbkKyD6xqBT3/giphy.gif" />
+  <div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
 </div>
 
 <!--### Hello World ! <img height="30" src="https://media0.giphy.com/media/QTlmH8hEoVoi83mdJC/200w.webp?cid=ecf05e475gkndp9379fxllqfhbet5s7wigrkj492lpi0go0s&rid=200w.webp"></img>
