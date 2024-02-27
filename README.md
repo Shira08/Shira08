@@ -19,14 +19,15 @@
 </h1>
   <div id="header"align="left">
  :woman_technologist: About Me :
+     <br>
 *Software Engineer, perfectionning in java programming !!!*
 
 - 🔭 I’m currently working as software engineer at MTN Bénin;
-- 🌱 I’m currently ;
-- 🎯 I'm working hard ;
+- 🌱 I'm currently delving into the world of technology and exploring new domains;
+- 🎯 My focus is on understanding security concepts deeply;
 - 👯 I’m looking to collaborate on everything about **open source** and how to make your users happy;
 - 📫 How to reach me: **gognonshira@gmail.com**;
-- ⚡ Fun fact: I am a big fan of dance and every thing who seems interesting to me;
+- ⚡ Fun fact: I'm passionate about dance, and anything that catches my attention becomes an opportunity for my creativity to thrive.;
 
 Feel free to contact me 
 </div>
