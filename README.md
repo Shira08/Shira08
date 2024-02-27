@@ -1,8 +1,7 @@
 
 <div id="header"align="=">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXh3cDNmcjdkNXhlcHY3bzR6YTBtejhtMXF3ZXcwNmdveGRkaTFwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Us2PJJGbkKyD6xqBT3/giphy.gif" />
-
-  <!--img src="https://komarev.com/ghpvc/?username=shira08&style=flat-square&color=blue" alt=""/-->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODYxb29udzJvb3lodDNhNGxuM2dyZnF5cGVmZHk4M2ZmdDd4cjFxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i4MAH84pqe2m2aVojc/giphy.gif" />
+  <!--img src="https://komarev.com/ghpvc/?username=shira08&style=flat-square&color=blue" alt="" https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXh3cDNmcjdkNXhlcHY3bzR6YTBtejhtMXF3ZXcwNmdveGRkaTFwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Us2PJJGbkKyD6xqBT3/giphy.gif/-->
   <h1>
   Hello world !!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
