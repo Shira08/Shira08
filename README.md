@@ -26,7 +26,7 @@ Feel free to contact me
 <div id="header"align="left">
 <Strong>Tools & Technologies :<Strong/>  <br>
 <!-- Add images with 20px spacing -->
-<div style="margin-top: 20px;">
+<div style="margin-top: 20px; margin-bottom:20px;">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" style="margin-right:20px;">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" style="margin-right:20px;">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="margin-right:20px;">
@@ -39,8 +39,8 @@ Feel free to contact me
 </div>
 
 </div>
-
-  <div id="badges">
+<hr style="border: 1px solid #000000;">
+  <div id="badges" style="margin-top: 20px;">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
