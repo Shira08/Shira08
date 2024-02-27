@@ -18,7 +18,6 @@ As a Software Engineer, I specialize in perfecting my skills in Java programming
 - 📫 How to reach me: **gognonshira@gmail.com**;
 - ⚡ Fun fact: I'm passionate about dance, and anything that catches my attention becomes an opportunity for my creativity to thrive.;
 
-Feel free to contact me
 
 </div>
 <hr style="border: 1px solid #000000;">
