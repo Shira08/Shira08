@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <div id=""align="left">
-    <Strong> :woman_technologist: About Me :<Strong/> 
+    <Strong style=" margin-bottom:20px;"> :woman_technologist: About Me :<Strong/> 
      <br>
 As a Software Engineer, I specialize in perfecting my skills in Java programming!
 
@@ -19,12 +19,13 @@ As a Software Engineer, I specialize in perfecting my skills in Java programming
 - 📫 How to reach me: **gognonshira@gmail.com**;
 - ⚡ Fun fact: I'm passionate about dance, and anything that catches my attention becomes an opportunity for my creativity to thrive.;
 
-Feel free to contact me 
+Feel free to contact me
+
 </div>
 <hr style="border: 1px solid #000000;">
 
 <div id="header"align="left">
-<Strong>Tools & Technologies :<Strong/>  <br>
+<Strong style="margin-bottom:20px;">Tools & Technologies :<Strong/>  <br>
 <!-- Add images with 20px spacing -->
 <div style="margin-top: 20px; margin-bottom:20px;">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" style="margin-right:20px;">
